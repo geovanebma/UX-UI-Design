@@ -1,0 +1,44 @@
+Sites úteis:
+
+Site de texto sobre UX Design (Principal):
+https://www.nngroup.com/
+
+Sites para organizar uma documentação por exemplo através de imagens:
+https://www.invisionapp.com/
+
+Sites para criação de proto-persona, inserindo as informações sobre uma pessoa por exemplo:
+https://xtensio.com/
+
+Card Sorting:
+https://www.google.com/intl/pt-BR/slides/about/
+
+Site Map:
+https://www.xmind.net/download/
+
+Ferramentas de edição UI:
+https://www.figma.com/
+- Adobe: XD
+
+Links, sites, números, emails prontos para testes:
+www.repeatgrid.com
+
+Guias de estilo para inspiração:
+https://www.behance.net/search/projects/?sort=appreciations&time=week&featured_on_behance=true&search=style+guide
+
+Site para realizar o teste de 5 segundos:
+https://fivesecondtest.com/
+
+Links de sites de ícones:
+https://www.iconfinder.com/
+https://www.flaticon.com/
+https://thenounproject.com/
+
+Sites de pesquisa para usabilidade:
+https://www.google.com/forms/about/
+https://www.typeform.com/
+
+Sites para testes de usabilidade:
+https://www.usertesting.com/
+
+Mostrar os resultados em um PDF:
+www.canvas.com
